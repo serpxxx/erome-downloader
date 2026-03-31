@@ -12,7 +12,7 @@ EroMe Downloader is a browser extension for users who want a cleaner way to save
 
 ## Links
 
-- :rocket: Get it here: [EroMe Downloader](https://serp.ly/erome-video-downloader)
+- :rocket: Get it here: [EroMe Downloader](https://serp.ly/erome-downloader)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/erome-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/erome-downloader/issues)
@@ -122,7 +122,7 @@ The extension only works on content you can already open in your active browser 
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/erome-video-downloader](https://serp.ly/erome-video-downloader)
+Start here: [https://serp.ly/erome-downloader](https://serp.ly/erome-downloader)
 
 ## Installation Instructions
 
