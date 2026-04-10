@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Download videos and images from Erome to your computer. This browser extension automatically detects media content on Erome posts, shows available quality options, and saves files locally for offline access.\n\nThe downloader handles both standard MP4 videos and streaming content, converting everything to easy-to-use MP4 files. Progress indicators keep you updated during downloads, and all processing happens in your browser for privacy.\n\nWorks with Chrome, Edge, Firefox, Brave, and Opera on Windows, macOS, and Linux.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "erome-downloader",
+  "readme": "../README.md",
+  "title": "Erome Downloader",
+  "version": "0.0"
+}
