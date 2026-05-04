@@ -1,6 +1,10 @@
-# EroMe Downloader
+# Erome Video Downloader | How to Download Erome Videos
 
 > Save supported EroMe album videos and images into organized local folders from the browser.
+
+## Get it Here
+
+Get it here: https://serp.ly/erome-downloader
 
 ![Erome Downloader](https://raw.githubusercontent.com/serpxxx/erome-downloader/main/assets/workflow-preview.webp)
 
@@ -11,11 +15,6 @@ EroMe Downloader is a browser extension for users who want a cleaner way to save
 - Export videos as MP4 and keep images in their original format
 - Use in-page controls, popup controls, or right-click actions
 - Keep files organized in a dedicated local folder structure
-
-## Get it Here
-
-Get it here: https://serp.ly/erome-downloader
-
 ## Table of Contents
 
 - [Why EroMe Downloader](#why-erome-downloader)
