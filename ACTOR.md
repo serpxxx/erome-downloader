@@ -1,159 +1,76 @@
-# Erome Video Downloader | How to Download Erome Videos
+# Erome Video Downloader
 
-> Save supported EroMe album videos and images into organized local folders from the browser.
+Want to download and save Erome videos so you can watch them offline with no ads, no annoying popups, and curate a personal collection of your favorite vids?
 
-## Get it Here
+👉 Get it Here: https://serp.ly/erome-downloader
 
-Get it here: https://serp.ly/erome-downloader
+## What this Erome downloader does
 
-![Erome Downloader](https://raw.githubusercontent.com/serpxxx/erome-downloader/main/assets/workflow-preview.webp)
+Erome Video Downloader gives you a cleaner browser-based way to save supported Erome videos from a URL. Instead of digging through source code, testing random popup sites, or using a screen recorder, you can use a focused downloader workflow built around the way Erome pages expose playable video.
 
-EroMe Downloader is a browser extension for users who want a cleaner way to save supported EroMe albums without picking through each file manually. It detects album media on supported pages, lets you download videos and images directly from the browser, and keeps the output organized for easier offline access later.
+It is best for personal offline viewing, organizing clips, archiving favorite videos, and avoiding repeated visits to ad-heavy pages when you already know which video you want to keep.
 
-- Save supported EroMe videos and images from album pages
-- Download individual media items or work through albums faster
-- Export videos as MP4 and keep images in their original format
-- Use in-page controls, popup controls, or right-click actions
-- Keep files organized in a dedicated local folder structure
-## Table of Contents
+## Key benefits
 
-- [Why EroMe Downloader](#why-erome-downloader)
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Step-by-Step Tutorial: How to Download Albums from EroMe](#step-by-step-tutorial-how-to-download-albums-from-erome)
-- [Supported Formats](#supported-formats)
-- [Who It's For](#who-its-for)
-- [Common Use Cases](#common-use-cases)
-- [Troubleshooting](#troubleshooting)
-- [Trial & Access](#trial--access)
-- [Installation Instructions](#installation-instructions)
-- [FAQ](#faq)
-- [Notes](#notes)
-- [License](#license)
-- [About EroMe](#about-erome)
-
-## Why EroMe Downloader
-
-EroMe albums can mix video and image content on the same page, which makes manual saving slow and messy. Generic downloaders often miss album structure, force one-file-at-a-time workflows, or ignore some media types entirely.
-
-EroMe Downloader is designed around that album workflow. It detects supported media on the page, gives you direct download controls for each item, and makes it easier to save videos and images into an organized local archive without leaving the browser.
+- Save supported Erome videos for offline viewing.
+- Avoid repeat visits, popups, and ad-heavy playback pages.
+- Keep a personal collection of favorite videos.
+- Use a simple URL-based workflow instead of bulky desktop software.
+- Download from supported pages without manually hunting through page scripts.
+- Useful for research, archiving, QA, and personal media organization.
 
 ## Features
 
-- Album-aware detection for supported EroMe videos and images
-- In-page controls on supported album and media pages
-- Video export to MP4 for easier playback later
-- Original-format image saving where supported
-- Quality selection for available video stream variants
-- Popup workflow for reviewing detected media
-- Right-click access for faster video downloads
-- Automatic saving into a dedicated EROME folder
-- Cross-browser support for Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
+- Erome video URL support.
+- Browser-friendly downloader flow.
+- Helps identify downloadable media from supported pages.
+- Designed for quick saves and repeat workflows.
+- Lightweight alternative to generic video downloader apps.
+- Works well as a practical Erome video saver for everyday use.
 
-## How It Works
+## How to download Erome videos
 
-1. Install the extension from the latest release.
-2. Open EroMe and go to a supported album or media page.
-3. Let the page load so the extension can detect the available media.
-4. Use the in-page controls, popup, or right-click actions.
-5. Choose the video quality you want if multiple options are available.
-6. Download the selected videos or images.
-7. Open the saved files from your Downloads folder.
+1. Copy the Erome video URL you want to save.
+2. Open the downloader page.
+3. Paste the video URL into the downloader.
+4. Let the tool check for available media options.
+5. Choose the version you want and save it to your device.
 
-## Step-by-Step Tutorial: How to Download Albums from EroMe
+👉 Get it Here: https://serp.ly/erome-downloader
 
-1. Install EroMe Downloader from the latest GitHub release.
-2. Open a supported EroMe album or media page.
-3. Wait for the album contents to load fully.
-4. Click the extension button or use the download controls shown on the page.
-5. For videos, review the quality options shown by the extension.
-6. Download the items you want from the album.
-7. Wait for the export to finish.
-8. Open the organized files from your Downloads folder.
+## Common use cases
 
-## Supported Formats
+- Offline watching.
+- Personal collections.
+- Saving favorite videos before they disappear.
+- Avoiding repeated ad-heavy page loads.
+- Organizing clips by topic, creator, or collection.
+- Downloading from a URL instead of installing random software.
 
-- Input: Supported EroMe videos
-- Input: Supported EroMe images
-- Output: MP4 for videos, original format for images where available
+## Browser extension alternative
 
-Saved files are organized locally for easier browsing after download.
-
-## Who It's For
-
-- EroMe users who want offline copies of supported albums
-- Users saving both video and image content from the same page
-- People who want a browser-based workflow instead of manual saving
-- Anyone building a cleaner local archive from supported media pages
-
-## Common Use Cases
-
-- Save supported videos from an EroMe album
-- Download album images in a cleaner workflow
-- Keep video and image content together in an organized folder
-- Download the best quality exposed for a supported video
-- Avoid one-file-at-a-time manual saving
-
-## Troubleshooting
-
-**The extension is not detecting the album media**  
-Refresh the page and wait for the album contents to load fully before trying again.
-
-**Some items are missing**  
-Make sure the full album section is visible and loaded in the current browser session.
-
-**The video quality list is short**  
-That usually means the page is exposing a limited set of playable variants.
-
-**The page requires access permissions**  
-The extension only works on content you can already open in your active browser session.
-
-## Trial & Access
-
-- Includes **3 free downloads** so you can test the workflow first
-- Email sign-in uses secure one-time password verification
-- No credit card required for the trial
-- Unlimited downloads are available with a paid license
-
-Start here: [https://serp.ly/erome-downloader](https://serp.ly/erome-downloader)
-
-## Installation Instructions
-
-1. Open the latest release page:
-   [https://github.com/serpxxx/erome-downloader/releases/latest](https://github.com/serpxxx/erome-downloader/releases/latest)
-2. Download the extension build for your browser.
-3. Install the extension.
-4. Open EroMe and navigate to a supported album or media page.
-5. Use the extension controls to detect and download the media.
+If you prefer a browser-based downloader flow instead of a heavy desktop app, this Erome downloader gives you a lightweight option for saving videos directly from supported URLs.
 
 ## FAQ
 
-**Can I download both videos and images from EroMe?**  
-Yes. Supported album pages can expose both media types through the extension.
+### Can I download Erome videos from a URL?
 
-**What file format do videos use?**  
-Supported videos are exported as MP4 files.
+Yes. Copy the Erome video link and use the downloader page to check for downloadable media options.
 
-**Do images stay in their original format?**  
-Where supported, images are saved in the original format exposed by the page.
+### Is this easier than using a screen recorder?
 
-**Where are files saved?**  
-They are saved to your default Downloads location, typically inside an EROME subfolder.
+Yes. A downloader can save the original media when available, while screen recording is slower, lower quality, and requires you to replay the whole video.
 
-**Do I need extra software?**  
-No. Everything runs through the browser extension.
+### Can I save Erome videos for offline viewing?
 
-## Notes
+Yes, when the video is publicly accessible and a downloadable media file is available, you can save it for offline viewing.
 
-- Only download content you own or have explicit permission to save
-- An internet connection is required while loading and downloading album media
-- Source quality and media availability depend on what the page exposes
-- The extension only works on content visible in your active browser session
+### What if a video does not download?
 
-## License
+Some videos may be private, removed, geo-restricted, protected, live-only, or served in a way that blocks direct downloads. Try another public video URL or check whether the page is accessible in your browser.
 
-This repository includes an MIT license in [LICENSE.md](https://github.com/serpxxx/erome-downloader/blob/main/LICENSE.md).
+## Start downloading Erome videos
 
-## About EroMe
+Use the Erome Video Downloader to save videos from supported URLs and build your own offline collection.
 
-EroMe albums often mix multiple videos and images on the same page, which makes manual collection tedious and inconsistent. EroMe Downloader simplifies that workflow by detecting supported media, adding direct download controls, and organizing the saved output locally.
+👉 Get it Here: https://serp.ly/erome-downloader
